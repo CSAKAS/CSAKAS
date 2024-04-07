@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi👋 UG student at HKUST, majoring in Computer Engineering and Integrated System Design. 
+## **Domain**: Computer Science, Electronic Engineering, Machine Learning, Software/Game Development
+# **Learning**: backend dev and unity
+## **My Skills**
+# **Software Development**
+**C++**  |  **C**  
+**Linux Programming  |  Computer networks/TCP/IP**  
+**HTML  |  CSS  |  JavaScript  |  React.js**  
+**Springboot  |  Mybastis**
+**MySQL**
+**Git  |  Docker**
+# **Machine Learning**
+**Python (PyTorch, numpy, pandas)  |  SciKit**  
+**LLM(GPT2,Bert)  |  yolo  |  Diffusion**  
+# **Electronic Engineering**
+**MCU (STM32, ESP32, Arduino,)  |  FPGA (Verilog)  |  Raspberry Pi (Ubuntu)  |  C programming (FreeRTOS)**
+**Digital/Analog Circuit  |  Digital signal processing**
 
-<!--
-**CSAKAS/CSAKAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
