@@ -1,5 +1,5 @@
 ### Hi👋 UG student at HKUST, majoring in Computer Engineering and Integrated System Design. 
-## **Domain**: Computer Science, Electronic Engineering, Machine Learning, Software/Game Development
+### **Domain**: Computer Science, Electronic Engineering, Machine Learning, Software/Game Development
 ### **Learning**: backend dev and unity
 ## **My Skills**
 ### **Software Development**
