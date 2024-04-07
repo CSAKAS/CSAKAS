@@ -13,6 +13,6 @@
 **Python (PyTorch, numpy, pandas)  |  SciKit**  
 **LLM(GPT2,Bert)  |  yolo  |  Diffusion**  
 ### **Electronic Engineering**
-**MCU (STM32, ESP32, Arduino,)  |  FPGA (Verilog)  |  Raspberry Pi (Ubuntu)  |  C programming (FreeRTOS)**
+**MCU (STM32, ESP32, Arduino,)  |  FPGA (Verilog)  |  Raspberry Pi (Ubuntu)  |  C programming (FreeRTOS)**  
 **Digital/Analog Circuit  |  Digital signal processing**
 
