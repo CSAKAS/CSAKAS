@@ -6,9 +6,9 @@
 **C++**  |  **C**  
 **Linux Programming  |  Computer networks/TCP/IP**  
 **HTML  |  CSS  |  JavaScript  |  React.js**  
-**Springboot  |  Mybastis**
-**MySQL**
-**Git  |  Docker**
+**Springboot  |  Mybastis**  
+**MySQL**  
+**Git  |  Docker**  
 ### **Machine Learning**
 **Python (PyTorch, numpy, pandas)  |  SciKit**  
 **LLM(GPT2,Bert)  |  yolo  |  Diffusion**  
