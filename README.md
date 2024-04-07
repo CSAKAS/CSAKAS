@@ -6,7 +6,7 @@
 **C++**  |  **C**  
 **Linux Programming  |  Computer networks/TCP/IP**  
 **HTML  |  CSS  |  JavaScript  |  React.js**  
-**Springboot  |  Mybastis**  
+**Springboot  |  Mybatis**  
 **MySQL**  
 **Git  |  Docker**  
 ### **Machine Learning**
@@ -15,4 +15,5 @@
 ### **Electronic Engineering**
 **MCU (STM32, ESP32, Arduino,)  |  FPGA (Verilog)  |  Raspberry Pi (Ubuntu)  |  C programming (FreeRTOS)**  
 **Digital/Analog Circuit  |  Digital signal processing**
-
+### **Language**
+**Mandarin(native)  |  English**  
